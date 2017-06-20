@@ -1,0 +1,25 @@
+type project
+title
+    plumlore
+owners
+    Erik Novales
+authors 
+    Erik Novales
+projectUrl
+    https://github.com/enovales/plumlore
+iconUrl
+    https://raw.githubusercontent.com/enovales/plumlore/master/docs/files/img/logo.png
+licenseUrl
+    https://github.com/enovales/plumlore/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    formal-concept-analysis formal concept analysis
+summary
+    Library for formal concept analysis
+description
+    Library for formal concept analysis
+
+
